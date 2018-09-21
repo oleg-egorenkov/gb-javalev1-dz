@@ -32,9 +32,9 @@ public class domz01 {
 
     public static void isPositiveOrNegative(int x) {
         if(x>=0) {
-            System.out.println("Чмсло положительное");
+            System.out.println("Число положительное");
         } else {
-            System.out.println("Чмсло отрицательное");
+            System.out.println("Число отрицательное");
         }
     }   //Задание 05
 
